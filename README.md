@@ -121,5 +121,5 @@ It highlights my ability to apply **AI creatively and practically** — deliveri
 
 👨‍💻 **Author:** *Pavan Kalyan Neelam*  
 📅 **Submission:** AI Internship Assignment — Nexora  
-📧 **Contact:** pavankalyan.neelam@example.com  
-🌐 **GitHub:** [pavankalyan-ai](https://github.com/pavankalyan-ai)
+📧 **Contact:** pavanneelam95@gmail.com 
+🌐 **GitHub:** [Vibe Match Recomendation]([https://github.com/pavankalyan-a](https://github.com/Pavan-Kalyan112/Nexora_Artificial_Intelligence_Assignment_Vibe_Matcher)
